@@ -24,10 +24,10 @@ El número total de productos en el back-end es de 96. Para mostrarlos correctam
 
 ## ¿Qué necesitas enviar?
 - URL de repositorio público que contiene:
-  - README.md
-   - Explicación breve de tu solución.
-   - Pasos a seguir para ejecutar tu solución en una laptop nueva.
-  - src Directorio con el código fuente de tu solución.
+ - README.md
+  * Explicación breve de tu solución.
+  * Pasos a seguir para ejecutar tu solución en una laptop nueva.
+  * src Directorio con el código fuente de tu solución.
 
 ## Consejos:
 - No pierdas tiempo utilizando una BD, nos interesa más ver como administras los componentes de tu solución y ver la calidad de tu código Javascript.

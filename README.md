@@ -8,11 +8,11 @@ Crea una aplicación web que simula un *feed* de productos, cada elemento tiene 
 * Descripción
 * Precio
 
-La información es obtenida de un webservice que puede despachar no más de 20 productos en un solo *request*. El formato de *request* y de respuesta es parte de tu solución, es decir, eres libre de diseñarlo como creas más conveniente.
+La información es obtenida de un *webservice* que puede despachar no más de 20 productos en un solo *request*. El formato del http *request* y de la respuesta es parte de tu solución, es decir, eres libre de diseñarlos como creas más conveniente.
 
 ![alt text](https://drive.google.com/uc?export=view&id=14GfOZx6wM1JLOyc4jE-9uI3YH0hHIPQ2 "Scroll Down Example")
 
-El número exacto de productos es 96, para mostrarlos correctamente implementa un scroll infinito, cada que llegas al final haz otra petición para obtener los siguientes 20, y así sucesivamente hasta que llegues al límite de 96.
+El número total de productos en el back-end es de 96. Para mostrarlos correctamente implementa un *infinite scroll*, cada que llegas al final de la página, si hay más productos por mostrar tienes que hacer otra petición http para obtener los siguientes 20, y así sucesivamente hasta que llegues al límite de 96.
 
 ## Restricciones técnicas.
 - Back-end:

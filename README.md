@@ -18,7 +18,7 @@ El número total de productos en el back-end es de 96. Para mostrarlos correctam
 - Back-end:
   - Node.js v9.2.0
 - Front-end
-  - Responsive design, debe funcionar correctamente para móbiles con resolución 360x640 y para browsers con resolución de al menos 1280x800.
+  - Responsive design, debe funcionar correctamente para móviles con resolución 360x640 y para browsers con resolución de al menos 1280x800.
   - Usa media queries para el cambio de resolución, no uses Bootstrap o similares.
   - Sólamente usa React, Angular o VanillaJS, no uses JQuery. Puedes usar módulos npm.
 
@@ -30,5 +30,5 @@ El número total de productos en el back-end es de 96. Para mostrarlos correctam
   - **src** Directorio con el código fuente de tu solución.
 
 ## Consejos:
-- No pierdas tiempo utilizando una BD, nos interesa más ver como administras los componentes de tu solución y ver la calidad de tu código Javascript.
+- No pierdas tiempo utilizando una BD, nos interesa más como administras los componentes de tu solución y ver la calidad de tu código.
 - Si tienes más experiencia trabajando en backend o frontend pon mayor esfuerzo en esa área, no es necesario que seas experto en ambos.
